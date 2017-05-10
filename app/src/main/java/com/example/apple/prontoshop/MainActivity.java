@@ -29,8 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
         for (int i=0; i<10; i++) {
             System.out.println(i);
-
         }
+        // someone else fixes all my bugs.
     }
 
     @Override
