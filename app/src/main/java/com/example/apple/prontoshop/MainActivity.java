@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
             System.out.println(i);
         }
         // someone else fixes all my bugs.
+        // test from android;
     }
 
     @Override
